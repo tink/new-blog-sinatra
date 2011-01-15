@@ -1,0 +1,6 @@
+Aplicação sinatra de exemplo
+
+== Instalar dependências
+
+gem install sqlite3-ruby
+gem install sequel

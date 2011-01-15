@@ -1,0 +1,3 @@
+require 'blog'
+
+Blog.run!
